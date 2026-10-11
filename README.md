@@ -40,7 +40,7 @@ python retangulo.py
 
 Em alguns sistemas (Linux/macOS), use `python3` no lugar de `python`.
 
-## exercícios em outras linguagens
+## Exercícios em outras linguagens
 
 - [C](https://github.com/Arthurdsc1/algoritmo_e_logica_em_C)
 - [Java](https://github.com/Arthurdsc1/Algoritmo_e_Logica_em_java)
